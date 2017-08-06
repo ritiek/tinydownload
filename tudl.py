@@ -16,7 +16,7 @@ def parse_args():
         nargs='*',
         help='the file_id or the tinyupload link')
     parser.add_argument(
-        '-n', '--name', default='.',
+        '-n', '--name',
         required=True,
         help='path and name of the file')
     return parser
