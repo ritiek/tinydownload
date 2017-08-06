@@ -44,8 +44,8 @@ Contributing
 Any PR's in bug fixes, features or even this documentation are most
 welcome!
 
-License:
---------
+License
+-------
 
 ``The MIT License``
 
