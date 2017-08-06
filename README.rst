@@ -5,8 +5,8 @@ tinyupload-downloader
 
 Download files from tinyupload.com.
 
-Installation & Usage:
----------------------
+Installation
+------------
 
 ::
 
@@ -19,6 +19,9 @@ or if you like to live on the bleeding edge:
     sudo python setup.py install
 
 Run it using ``tudl``
+
+Usage
+-----
 
 ::
 
@@ -35,8 +38,8 @@ Run it using ``tudl``
     required arguments:
       -n NAME, --name NAME  path and name of the file
 
-Contributing:
--------------
+Contributing
+------------
 
 Any PR's in bug fixes, features or even this documentation are most
 welcome!
