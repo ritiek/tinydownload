@@ -1,5 +1,5 @@
-tinyupload-downloader
-=====================
+tinydownload
+============
 
 |pypi.python.org| |build Status|
 
