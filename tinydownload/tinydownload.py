@@ -42,7 +42,10 @@ def get_filelink(soup):
 
 
 def get_filename(soup):
-    name = soup.find_all('b')[-2].get_text()
+    bolds = soup.find_all('b')
+    name = bolds[-2].get_text()
+    if name == 'Contact':
+        name = bolds[-1].get_text()
     return name
 
 
