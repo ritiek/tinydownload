@@ -20,6 +20,6 @@ def test_download():
     expect_result = 'TEST PASSED!\n'
     link = tinydownload.get_filelink(soup)
     tinydownload.download(link, filename)
-    with open(filename, 'rb') as text:
+    with open(filename, 'r') as text:
         result = text.read()
     assert result == expect_result
