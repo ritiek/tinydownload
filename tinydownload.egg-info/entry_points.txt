@@ -1,0 +1,3 @@
+[console_scripts]
+tinydownload = tinydownload.tinydownload:command_line
+
