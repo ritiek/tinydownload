@@ -10,7 +10,7 @@ Installation
 
 ::
 
-    sudo pip install -U tinyupload-downloader
+    sudo pip install -U tinydownload
 
 or if you like to live on the bleeding edge:
 
