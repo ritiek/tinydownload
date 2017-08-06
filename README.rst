@@ -18,14 +18,14 @@ or if you like to live on the bleeding edge:
 
     sudo python setup.py install
 
-Run it using ``tudl``
+Run it using ``tinydownload``
 
 Usage
 -----
 
 ::
 
-    usage: tudl [-h] -n NAME [QUERY [QUERY ...]]
+    usage: tinydownload [-h] -n NAME [QUERY [QUERY ...]]
 
     Download files from tinyupload.com
 
