@@ -4,3 +4,4 @@ __pycache__/
 tinydownload.egg-info/
 build/
 dist/
+test.txt
