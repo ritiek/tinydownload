@@ -49,7 +49,7 @@ License
 
 ``The MIT License``
 
-.. |pypi.python.org| image:: https://img.shields.io/pypi/v/tinyupload-downloader.svg
-   :target: https://pypi.org/project/tinyupload-downloader/
-.. |build Status| image:: https://travis-ci.org/ritiek/tinyupload-downloader.svg?branch=master
-   :target: https://travis-ci.org/ritiek/tinyupload-downloader/
+.. |pypi.python.org| image:: https://img.shields.io/pypi/v/tinydownload.svg
+   :target: https://pypi.org/project/tinydownload/
+.. |build Status| image:: https://travis-ci.org/ritiek/tinydownload.svg?branch=master
+   :target: https://travis-ci.org/ritiek/tinydownload/
