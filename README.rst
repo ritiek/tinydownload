@@ -25,18 +25,17 @@ Usage
 
 ::
 
-    usage: tinydownload [-h] -n NAME [QUERY [QUERY ...]]
+	usage: tinydownload [-h] [-o OUTPUT_FILE] query
 
-    Download files from tinyupload.com
+	Download files from tinyupload.com
 
-    positional arguments:
-      QUERY                 the file_id or the tinyupload link
+	optional arguments:
+	  -h, --help            show this help message and exit
 
-    optional arguments:
-      -h, --help            show this help message and exit
-
-    required arguments:
-      -n NAME, --name NAME  path and name of the file
+	required arguments:
+	  query                 the file_id or the tinyupload link
+	  -o OUTPUT_FILE, --output-file OUTPUT_FILE
+							path and name of the file
 
 Contributing
 ------------
