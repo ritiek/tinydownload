@@ -19,7 +19,7 @@ setup(name='tinydownload',
             ]
       },
       url='https://www.github.com/ritiek/tinydownload',
-      keywords=['quora', 'terminal', 'command-line', 'question', 'python'],
+      keywords=['tinyupload', 'downloader', 'command-line', 'tinydownload', 'python'],
       license='MIT',
       download_url='https://github.com/ritiek/tinydownload/archive/v' + tinydownload.__version__ + '.tar.gz',
       classifiers=[],
