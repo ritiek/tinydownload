@@ -1,4 +1,5 @@
-tinyupload-downloader =====================
+tinyupload-downloader
+=====================
 
 |pypi.python.org| |build Status|
 
@@ -21,7 +22,7 @@ Run it using ``tudl``
 
 ::
 
-    usage: tudl.py [-h] -n NAME [QUERY [QUERY ...]]
+    usage: tudl [-h] -n NAME [QUERY [QUERY ...]]
 
     Download files from tinyupload.com
 
